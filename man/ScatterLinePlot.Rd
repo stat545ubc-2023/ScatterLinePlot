@@ -25,6 +25,7 @@ This function creates a scatterplot with each of the points connected by a line,
 # Load required packages (if not already loaded)
 library(ggplot2)
 library(dplyr)
+library(ScatterLinePlot)
 
 # Create a sample data frame
 df <- data.frame(
