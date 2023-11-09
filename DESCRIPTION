@@ -7,7 +7,8 @@ Description: Convenient function that creates a scatterplot with each point conn
 License: MIT + file LICENSE
 Imports: 
     dplyr,
-    ggplot2
+    ggplot2,
+    magrittr
 Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
