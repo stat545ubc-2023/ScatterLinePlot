@@ -1,6 +1,6 @@
 Package: ScatterLinePlot
 Title: Create Scatter Plot with Lines Grouped by a Variable
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Andy", "Kim", , "andykim2000@hotmail.com", role = c("aut", "cre"))
 Description: Convenient function that creates a scatterplot with each point connected by a line and is grouped based on a specified variable and also filters out any NA values in the y-variable. The following package uses 'dplyr' and 'ggplot2' in order to create the plot. You provide the dataset, group variable, x variable, and y variable then it graphs it for you.
